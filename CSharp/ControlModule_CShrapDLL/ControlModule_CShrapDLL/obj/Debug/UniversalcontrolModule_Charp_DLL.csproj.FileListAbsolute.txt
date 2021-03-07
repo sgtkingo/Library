@@ -1,0 +1,5 @@
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\bin\Debug\UniversalControlModule.dll
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\bin\Debug\UniversalControlModule.pdb
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\UniversalcontrolModule_Charp_DLL.csproj.CoreCompileInputs.cache
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\UniversalControlModule.dll
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\UniversalControlModule.pdb

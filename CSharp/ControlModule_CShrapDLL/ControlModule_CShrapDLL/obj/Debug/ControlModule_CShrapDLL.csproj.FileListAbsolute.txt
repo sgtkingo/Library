@@ -1,0 +1,12 @@
+E:\BETONARKA_ntb\Moduls\ControlModule_CShrapDLL\ControlModule_CShrapDLL\bin\Debug\ControlModule_CShrapDLL.dll
+E:\BETONARKA_ntb\Moduls\ControlModule_CShrapDLL\ControlModule_CShrapDLL\bin\Debug\ControlModule_CShrapDLL.pdb
+E:\BETONARKA_ntb\Moduls\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\ControlModule_CShrapDLL.csprojAssemblyReference.cache
+E:\BETONARKA_ntb\Moduls\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\ControlModule_CShrapDLL.csproj.CoreCompileInputs.cache
+E:\BETONARKA_ntb\Moduls\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\ControlModule_CShrapDLL.dll
+E:\BETONARKA_ntb\Moduls\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\ControlModule_CShrapDLL.pdb
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\bin\Debug\UniversalControlModule.dll
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\bin\Debug\UniversalControlModule.pdb
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\ControlModule_CShrapDLL.csprojAssemblyReference.cache
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\ControlModule_CShrapDLL.csproj.CoreCompileInputs.cache
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\UniversalControlModule.dll
+H:\PRG\CSharp\DLL_demo\ControlModule_CShrapDLL\ControlModule_CShrapDLL\obj\Debug\UniversalControlModule.pdb
